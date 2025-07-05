@@ -12,18 +12,21 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<!-- About Me Section -->
+<br></br>
+<img align="right" alt="Coding" width="300" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Jatin Bharti!
-
 - 🎓 Studying at **IIT Roorkee** 
 - 💻 Experienced in **Full Stack Development**
 - 🤝 Open to collaborating on exciting projects and innovative ideas
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jatin-bharti-0a37a432b/) | [Email](mailto:jatinbharti2006@gmail.com)
 
+</br>
+
 
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+</br>
 
 <!-- GitHub Stats Section -->
 <div align="center">
@@ -46,3 +49,41 @@
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="28">Skills
+
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,css,dart,django,express,flask,flutter,go,docker,html,js,mongodb,git,nginx,nodejs,react,rust,sqlite,ts,vite,vercel,vscode,postman,figma&perline=12" />
+  </a>
+</p>
+
+
+<div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Connect With Me
+
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="210"/>
+</div>
+<div>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+</div>
+
+<p align='center'>
+  <img src='https://profile-counter.glitch.me/Annonnymmousss/count.svg'>
+</p>
+
+</br>
+<div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
