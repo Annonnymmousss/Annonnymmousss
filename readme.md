@@ -67,7 +67,7 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Connect With Me
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="210"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
 <div>
   <p align="center">
@@ -82,8 +82,4 @@
   <img src='https://profile-counter.glitch.me/Annonnymmousss/count.svg'>
 </p>
 
-</br>
-<div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
