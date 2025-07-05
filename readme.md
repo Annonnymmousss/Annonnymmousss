@@ -79,7 +79,7 @@
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://www.instagram.com/YOUR_USERNAME/" target="_blank">
+<a href="https://www.instagram.com/jati.nnn_/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
