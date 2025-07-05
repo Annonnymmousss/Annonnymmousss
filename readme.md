@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h2><b>Let's Build Anonymously</b></h2>
+  <h1><b>Let's Build Anonymously</b></h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Let's+Build+Anonymously;Full+Stack+Developer;Student+at+IIT+Roorkee;Open+to+Collaborations+%26+Ideas;" alt="Typing SVG"/>
 </div>
 
@@ -26,8 +26,8 @@
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-</br>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <!-- GitHub Stats Section -->
 <div align="center">
     <img 
