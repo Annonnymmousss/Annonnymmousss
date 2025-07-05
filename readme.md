@@ -71,7 +71,7 @@
 </div>
 <div>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" href="https://www.linkedin.com/in/jatin-bharti-0a37a432b/"/>
     <img src="https://skillicons.dev/icons?i=gmail" />
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
