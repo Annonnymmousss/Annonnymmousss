@@ -13,7 +13,7 @@
 </div>
 
 <br></br>
-<img align="right" alt="Coding" width="300" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
+<img align="right" alt="Coding" width="300" src="[https://github.com/supravatm/supravatm/blob/main/src/code.gif](https://camo.githubusercontent.com/33c943e22243ea22b58ddd612368435f4b48d762351d859f54ba70de4a796303/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966)">
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Jatin Bharti!
 - 🎓 Studying at **IIT Roorkee** 
 - 💻 Experienced in **Full Stack Development**
