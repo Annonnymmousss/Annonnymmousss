@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1><b>Let's Build Anonymously</b></h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Let's+Build+Anonymously;Full+Stack+Developer;Student+at+IIT+Roorkee;Open+to+Collaborations+%26+Ideas;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Let's+Build+Anonymously;Student+at+IIT+Roorkee;Open+to+Collaborations+%26+Ideas;" alt="Typing SVG"/>
 </div>
 
 <div>
@@ -15,8 +15,7 @@
 <br></br>
 <!-- <img align="right" alt="Coding" width="300" src="[https://github.com/supravatm/supravatm/blob/main/src/code.gif](https://camo.githubusercontent.com/33c943e22243ea22b58ddd612368435f4b48d762351d859f54ba70de4a796303/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966)"> -->
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Jatin Bharti!
-- 🎓 Studying at **IIT Roorkee** 
-- 💻 Experienced in **Full Stack Development**
+- 🎓 Studying at **IIT Roorkee**
 - 🤝 Open to collaborating on exciting projects and innovative ideas
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jatin-bharti-0a37a432b/) | [Email](mailto:jatinbharti2006@gmail.com)
 
