@@ -5,7 +5,7 @@
 </div>
   
 ```rust
-I believe in quality and I Rust 🦀.
+I believe in quality, coffee and Rust 🦀.
 ```
 </div>
 
