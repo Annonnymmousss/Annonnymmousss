@@ -9,7 +9,7 @@
 </div>
   
 ```rust
-I believe in quality, coffee and Rust 🦀.
+I believe in quality, coffee and Rust.
 I like networks, automation, math and infra.
 ```
 </div>
