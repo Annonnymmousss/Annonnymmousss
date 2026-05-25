@@ -1,7 +1,7 @@
 <div id="header" align="center">
- <h4>
+ <!-- <h4>
     <sub><i>"Only the dead fish go with the flow"</i></sub>
-  </h4>
+  </h4> -->
 <!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/> -->
 
 <img width="300" height="auto" alt="enigma (1)" src="https://github.com/user-attachments/assets/2eafaa89-0447-4f86-b543-416aabe5adc2" />
